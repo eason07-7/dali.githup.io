@@ -1,0 +1,31 @@
+/* 設定整個網頁的背景顏色和字體顏色 */
+body {
+    background-color: #FEF5E7;
+    color: black;
+  }
+  
+  /* 設定標題的字體大小和對齊方式 */
+  h2 {
+    font-size: 24px;
+    text-align: center;
+  }
+  
+  /* 設定列表的字體大小和行距 */
+  ul {
+    font-size: 18px;
+    line-height: 1.5;
+  }
+  
+  /* 設定超連結的顏色和對齊方式 */
+  a {
+    color: black;
+
+  }
+  
+  /* 設定標記的背景顏色和邊框 */
+  mark {
+    background-color: yellow;
+    border: 1px solid black;
+  }
+  
+  
